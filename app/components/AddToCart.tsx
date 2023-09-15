@@ -8,7 +8,7 @@ const AddToCart = () => {
         className="btn btn-primary"
         onClick={() => console.log("Clicked")}
       >
-        Add to cart
+        Add to cartttt
       </button>
     </div>
   );
